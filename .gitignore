@@ -1,0 +1,13 @@
+# Compiled binaries and objects
+*.o
+*.obj
+*.exe
+library
+library.exe
+
+# Visual Studio / VS Code
+.vscode/
+.vs/
+
+# Runtime data files (optional)
+# library.txt
