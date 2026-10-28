@@ -13,7 +13,6 @@ A high-performance, console-based Library Management System implemented in C uti
 - [Compilation & Execution](#compilation--execution)
 - [Usage & Navigation](#usage--navigation)
 - [File Persistence Format](#file-persistence-format)
-- [License](#license)
 
 ---
 
@@ -167,9 +166,3 @@ RESERVATIONS <count>
 <book_id> <member_id>
 ...
 ```
-
----
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
